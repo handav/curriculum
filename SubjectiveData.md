@@ -56,11 +56,17 @@ Students should go around and share their classifications of the text. Afterward
 
 ## References
 Kate Crawford - The Trouble with Bias
+
 Latanya Sweeney - Google Ads
+
 Joy Boulamwini - Face Detection
+
 Mimi Onuoha - Missing Datasets, Algorithmic Violence
+
 Sebastian Schmieg - This is the Problem, the Solution, the Past and the Future
+
 Tega Brain and Sam Lavigne - The Good Life
+
 Shinseungback Kimyonghun - Animal Classifier
 
 
