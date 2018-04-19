@@ -38,6 +38,8 @@ After this workshop, students will...
 
 ### 1) Discussion and Slides/Information
 
+Slides can be found at [https://drive.google.com/open?id=117x4LZx_OxD65nuQVGpLtGoi-kP-lkDY](https://drive.google.com/open?id=117x4LZx_OxD65nuQVGpLtGoi-kP-lkDY). These slides are available with attribution only.
+
 Subjective data encompasses several facets: 
 - Emotions and other subjective experiences: How do we incorporate these into AI, especially as AI starts moving towards more complex and personal areas? How can we capture abstractions like emotions in datasets, and how can we model things like personality and life experience?
 - Identifying subjectivity in "objective" datasets: If we examine commonly used machine learning datasets, what types of subjectivity do we find, especially when we look at how the datasets were created, what the motivations and demographics of the taggers are (if taggers are present), where the data comes from (if not manually tagged), who funded the dataset, what the dataset leaves out, where the dataset breaks down, etc.?
