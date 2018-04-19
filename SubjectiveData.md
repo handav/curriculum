@@ -10,9 +10,10 @@ Subjective data exists on the periphery of the current machine learning landscap
 This workshop is designed for anyone interested in critically examining datasets, but would be most appropriate for ages 16+. 
 
 ### Pacing / Duration
-Generally, this workshop will take 2-3 hours. This workshop also requires that students fill out two surveys ahead of time (adjustable to your preference):
+Generally, this workshop will take 2 hours. This workshop also requires that students fill out two surveys ahead of time (adjustable to your preference):
 1) Asking students to label 5-6 images with the emotions they evoke (I used images from the game Dixit, but these can be any images)
 2) Asking students to submit a piece of emotional text and the reason they feel that way.
+These can be created with a tool like Google Forms.
 
 - Break down of the class schedule example: 
   - 1:00 Overview of data, bias in data, examining subjectivity 
